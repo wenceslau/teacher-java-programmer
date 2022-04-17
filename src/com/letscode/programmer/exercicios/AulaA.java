@@ -1,4 +1,4 @@
-package com.letscode.programmer.Exercicio;
+package com.letscode.programmer.exercicios;
 
 public class AulaA {
 
